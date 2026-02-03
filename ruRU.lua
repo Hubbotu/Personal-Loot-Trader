@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):NewLocale("PersonalLootTrader", "ruRU", true) 
+local L = LibStub("AceLocale-3.0"):NewLocale("PersonalLootTrader", "ruRU", false)
 if not L then return end
 -- Translator ZamestoTV
 local MSAbrev = 'МС' --This is what will be used for Main Spec rolls. Whisper this to the user to enter.
